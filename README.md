@@ -11,7 +11,7 @@ A Flutter-based safety application with SOS alerts and nearby help features, bui
 - **Kaif** -  Guidence and suggestions.
 Contact:
 - **Saniya** - gadamphallisaniya@gmail.com
-- **Kumel** -
+- **Kumel** - mohammadkumeal786@gmail.com
 - **Kaif** - 
 
 *This was a collaborative team effort where each member contributed their expertise.*
